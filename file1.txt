@@ -1,3 +1,4 @@
 this is mergin
 line two
-
+line three
+master
